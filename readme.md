@@ -13,7 +13,7 @@ Pulled this from Ghost ( http://ghost.org/features ). Its a responsive jquery ma
 Yay, Durgesh created a node based fork of ghostdown with image upload placeholders:
 
 Demo: http://ghosditor.herokuapp.com/  
-
+ 
 Star the repo: https://github.com/durgesh-priyaranjan/ghosditor
 
 Now if only it was platform independent (not requiring node)
